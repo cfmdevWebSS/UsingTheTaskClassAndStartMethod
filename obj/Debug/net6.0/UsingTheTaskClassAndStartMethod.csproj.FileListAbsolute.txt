@@ -1,0 +1,15 @@
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\bin\Debug\net6.0\UsingTheTaskClassAndStartMethod.exe
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\bin\Debug\net6.0\UsingTheTaskClassAndStartMethod.deps.json
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\bin\Debug\net6.0\UsingTheTaskClassAndStartMethod.runtimeconfig.json
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\bin\Debug\net6.0\UsingTheTaskClassAndStartMethod.dll
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\bin\Debug\net6.0\ref\UsingTheTaskClassAndStartMethod.dll
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\bin\Debug\net6.0\UsingTheTaskClassAndStartMethod.pdb
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\obj\Debug\net6.0\UsingTheTaskClassAndStartMethod.csproj.AssemblyReference.cache
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\obj\Debug\net6.0\UsingTheTaskClassAndStartMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\obj\Debug\net6.0\UsingTheTaskClassAndStartMethod.AssemblyInfoInputs.cache
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\obj\Debug\net6.0\UsingTheTaskClassAndStartMethod.AssemblyInfo.cs
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\obj\Debug\net6.0\UsingTheTaskClassAndStartMethod.csproj.CoreCompileInputs.cache
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\obj\Debug\net6.0\UsingTheTaskClassAndStartMethod.dll
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\obj\Debug\net6.0\ref\UsingTheTaskClassAndStartMethod.dll
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\obj\Debug\net6.0\UsingTheTaskClassAndStartMethod.pdb
+C:\Users\cfmde\source\repos\code\UsingTheTaskClassAndStartMethod\obj\Debug\net6.0\UsingTheTaskClassAndStartMethod.genruntimeconfig.cache
